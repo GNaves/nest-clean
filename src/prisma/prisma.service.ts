@@ -18,5 +18,5 @@ export class PrismaService
 
   onModuleDestroy() {
     this.$disconnect()
-  }
+  } 
 }
